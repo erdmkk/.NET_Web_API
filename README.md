@@ -1,2 +1,2 @@
 # WebAPIwithMVC
-Basic Example.
+Get, Post, Put, Delete operations
